@@ -33,11 +33,11 @@ This repository provides a fundamental implementation of the basic Chain Ladder 
 
 ### Claims Development Curves
 Shows cumulative paid loss trends across development lags for each accident year:
-![Claims Development Curves](ClaimsDevelopmentCurves.png)
+![Claims Development Curves](Claims_Development_Curves.png)
 
 ### Paid Claims vs. Required Reserves
 Illustrates the proportion of paid losses versus required total outstanding reserves:
-![Paid Claims vs Reserve Breakdown](PaidClaimsvsOustandingReserveByYear.png)
+![Paid Claims vs Reserve Breakdown](Paid_Claims_vs_Oustanding_Reserve_By_Year.png)
 
 ## Tech Stack
 * **Language**: Python 3.x
