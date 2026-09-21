@@ -44,8 +44,6 @@ Illustrates the proportion of paid losses versus required total outstanding rese
 * **Data Analysis**: `pandas`, `numpy`
 * **Visualization**: `matplotlib`
 
-### How GitHub renders it on your page:
-
 > ## How to Run
 > 1. Clone this repository:
 >    `git clone [https://github.com/your-username/chain-ladder-claims-reserving.git](https://github.com/your-username/chain-ladder-claims-reserving.git)`
