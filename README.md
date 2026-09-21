@@ -28,17 +28,16 @@ This repository provides a fundamental implementation of the basic Chain Ladder 
 * **Stochastic Reserving (Mack's Method)**: Implement Mack's Chain Ladder model to estimate standard errors / confidence intervals around required reserves.
 * **Bornhuetter-Ferguson (BF) Method**: Blend historical development factors with an a priori expected loss ratio to reduce reserve volatility in recent, immature accident years.
 * **Diagnostic Reporting**: Calculate residual plots across development lags and accident years to test for inflation shifts or operational changes in claims handling.
-* **Interactive Dashboard**: Build a `Streamlit` or `Dash` web app allowing users to upload custom Schedule P CSV triangles and dynamically select link-ratio averages (e.g., 3-year, 5-year, or weighted).
 
 ## Output Visualizations
 
 ### Claims Development Curves
 Shows cumulative paid loss trends across development lags for each accident year:
-![Claims Development Curves](development_curves.png)
+![Claims Development Curves](ClaimsDevelopmentCurves.png)
 
 ### Paid Claims vs. Required Reserves
 Illustrates the proportion of paid losses versus required total outstanding reserves:
-![Paid Claims vs Reserve Breakdown](reserve_breakdown.png)
+![Paid Claims vs Reserve Breakdown](PaidClaimsvsOustandingReserveByYear.png)
 
 ## Tech Stack
 * **Language**: Python 3.x
