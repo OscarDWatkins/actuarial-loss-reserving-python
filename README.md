@@ -17,7 +17,7 @@ The dataset used in this project is sourced from the **Casualty Actuarial Societ
 * **Line of Business:** Private Passenger Auto Liability/Medical (`PP Auto Data Set`).
 * **Target Entity:** *Employers Mutual Company of Des Moines* (NAIC Group).
 * **Data Scope:** 10 accident years (1998–2007) across 10 development lags.
-* **Citation:** Data accessed via the [CAS Loss Reserving Data Page](https://www.casact.org/), compiled by S&P Global Market Intelligence and original researchers Glenn G. Meyers, PhD, FCAS, and Peng Shi, PhD, ASA.
+* **Citation:** Data accessed via the [CAS Loss Reserving Data Page]([https://www.casact.org/](https://www.casact.org/publications-research/research/research-resources/loss-reserving-data-pulled-naic-schedule-p)), compiled by S&P Global Market Intelligence and original researchers Glenn G. Meyers, PhD, FCAS, and Peng Shi, PhD, ASA.
 
 ## Scope, Limitations & Future Enhancements
 
